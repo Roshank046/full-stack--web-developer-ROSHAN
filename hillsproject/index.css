@@ -65,7 +65,7 @@ html{
     border-radius: 9px;
 }
 .background{
-    background: rgb(0, 0, 0,0.7) url(nandi4.jpg);
+    background: rgb(0, 0, 0,0.6) url(nandi4.jpg);
     background-size: cover;
     background-blend-mode: darken;
 
